@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "RAZONAMIENTO VERBAL"
+  },
+  {
+    "id": 2,
+    "name": "CULTURA GENERAL"
+  },
+  {
+    "id": 3,
+    "name": "HISTORIA UNIVERSAL"
+  },
+  {
+    "id": 4,
+    "name": "HISTORIA DEL PERÚ"
+  },
+  {
+    "id": 5,
+    "name": "LENGUAJE–COMUNICACIÓN"
+  },
+  {
+    "id": 6,
+    "name": "LITERATURA"
+  },
+  {
+    "id": 7,
+    "name": "GEOGRAFÍA"
+  },
+  {
+    "id": 8,
+    "name": "PSICOLOGÍA"
+  },
+  {
+    "id": 9,
+    "name": "CÍVICA"
+  },
+  {
+    "id": 10,
+    "name": "ECONOMÍA"
+  },
+  {
+    "id": 11,
+    "name": "FILOSOFÍA"
+  }
+]

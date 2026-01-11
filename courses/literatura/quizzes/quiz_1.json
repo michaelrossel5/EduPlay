@@ -6,7 +6,7 @@
       {"label": "A", "value": "disminuya el valor de nuestras exportaciones"},
       {"label": "C", "value": "aumenta las actividades del narcotráfico"},
       {"label": "D", "value": "que el BCR compre dólares"},
-      {"label": "E", "value": }
+      {"label": "E", "value": null}
     ],
     "correct_label": "C",
     "explanation": "El narcotráfico es una de las principales actividades generadores de ingreso de divisas del país."

@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "question": "En la expresión: 'La sangre roja emana de su cuerpo'. La figura literaria predominante, es:",
+    "options": [
+      {"label": "A", "value": "epíteto"},
+      {"label": "B", "value": "anáfora"},
+      {"label": "C", "value": "paradoja"},
+      {"label": "D", "value": "onomatopeya"},
+      {"label": "E", "value": "símil"}
+    ],
+    "correct_label": "A",
+    "explanation": "El epíteto consiste en el empleo innecesario de adjetivos que brindan un rasgo inherente al ser u objeto. En este caso, 'roja' es una característica propia de la sangre."
+  },
+  {
+    "id": 2,
+    "question": "¿Qué figuras literarias encontramos en los siguientes versos?\n“Cuerpo de mujer, blancas colinas, muslos blancos / te pareces al mundo en tu actitud de entrega”.",
+    "options": [
+      {"label": "A", "value": "Anáfora y epíteto"},
+      {"label": "B", "value": "Hipérbole y anáfora"},
+      {"label": "C", "value": "Metáfora e hipérbaton"},
+      {"label": "D", "value": "Símil y metáfora"},
+      {"label": "E", "value": "metáfora y epíteto"}
+    ],
+    "correct_label": "D",
+    "explanation": "Se presenta un símil mediante el nexo 'te pareces' y una metáfora al trasladar el significado de un concepto a otro (cuerpo/colinas) mediante semejanza."
+  },
+  {
+    "id": 3,
+    "question": "En la siguiente expresión: 'Dábame el mar la suave nota de su melancolía', la figura literaria que se aprecia es:",
+    "options": [
+      {"label": "A", "value": "epíteto"},
+      {"label": "B", "value": "símil"},
+      {"label": "C", "value": "hipérbole"},
+      {"label": "D", "value": "hipérbaton"},
+      {"label": "E", "value": "Metáfora"}
+    ],
+    "correct_label": "D",
+    "explanation": "El hipérbaton es la alteración del orden sintáctico normal en la oración."
+  },
+  {
+    "id": 4,
+    "question": "La figura literaria que consiste en alterar el orden formal o sintáctico se denomina:",
+    "options": [
+      {"label": "A", "value": "hipérbole"},
+      {"label": "B", "value": "hipérbaton"},
+      {"label": "C", "value": "metáfora"},
+      {"label": "D", "value": "símil"},
+      {"label": "E", "value": "antítesis"}
+    ],
+    "correct_label": "B",
+    "explanation": "La figura que violenta el orden de la oración con fines estéticos es el hipérbaton."
+  },
+  {
+    "id": 5,
+    "question": "¡Oh más dura que mármol a mis quejas y al encendido fuego en que me quemo, más helada que la nieve, Galatea!\n¿Qué figuras literarias presentan el verso anterior?",
+    "options": [
+      {"label": "A", "value": "Anáfora y símil"},
+      {"label": "B", "value": "Prosopeya y epíteto"},
+      {"label": "C", "value": "Epíteto y anáfora"},
+      {"label": "D", "value": "Hipérbole y epíteto"},
+      {"label": "E", "value": "Metáfora y aliteración"}
+    ],
+    "correct_label": "D",
+    "explanation": "Predomina la hipérbole (exageración de la dureza y el frío) y el epíteto (adjetivos que subrayan cualidades inherentes como la nieve helada)."
+  },
+  {
+    "id": 6,
+    "question": "¿Qué figura literaria se ha empleado en:\n“Amor que nace / amor que vuelve / amor que surge del centro de la Tierra”?",
+    "options": [
+      {"label": "A", "value": "epíteto"},
+      {"label": "B", "value": "epífora"},
+      {"label": "C", "value": "hipérbole"},
+      {"label": "D", "value": "anáfora"},
+      {"label": "E", "value": "concatenación"}
+    ],
+    "correct_label": "D",
+    "explanation": "Se utiliza la anáfora debido a la repetición de la expresión “amor que” al inicio de los versos citados."
+  },
+  {
+    "id": 7,
+    "question": "¿Qué figura literaria encontramos en: 'Hay un sitio vacío en la mesa hacia el cual / mi madre tiende a veces su mirada de miel'?",
+    "options": [
+      {"label": "A", "value": "Hipérbole"},
+      {"label": "B", "value": "Sinécdoque"},
+      {"label": "C", "value": "Metonimia"},
+      {"label": "D", "value": "Antítesis"},
+      {"label": "E", "value": "Metáfora"}
+    ],
+    "correct_label": "E",
+    "explanation": "Se aprecia la construcción de la metáfora en la frase 'su mirada de miel'."
+  },
+  {
+    "id": 8,
+    "question": "En el verso de Pablo Neruda: “El verso cae al alma como al pasto el rocío”, se establece una:",
+    "options": [
+      {"label": "A", "value": "Comparación directa"},
+      {"label": "B", "value": "Oposición"},
+      {"label": "C", "value": "Comparación indirecta"},
+      {"label": "D", "value": "Comparación simple"},
+      {"label": "E", "value": "Sustitución abierta"}
+    ],
+    "correct_label": "A",
+    "explanation": "El uso del nexo 'como' indica un símil, el cual es una comparación directa y expresa entre dos elementos."
+  },
+  {
+    "id": 9,
+    "question": "“Tanto dolor se agrupa a mi costado, que por dolerme, me duele hasta el aliento”.\nLa figura literaria empleada es:",
+    "options": [
+      {"label": "A", "value": "símil"},
+      {"label": "B", "value": "hipérbole"},
+      {"label": "C", "value": "epíteto"},
+      {"label": "D", "value": "antítesis"},
+      {"label": "E", "value": "anáfora"}
+    ],
+    "correct_label": "B",
+    "explanation": "Se recurre a la hipérbole al magnificar el estado del dolor con la expresión 'me duele hasta el aliento'."
+  },
+  {
+    "id": 10,
+    "question": "El verso castellano de arte menor más importante y tradicional es el:",
+    "options": [
+      {"label": "A", "value": "tetrasílabo"},
+      {"label": "B", "value": "pentasílabo"},
+      {"label": "C", "value": "heptasílabo"},
+      {"label": "D", "value": "octosílabo"},
+      {"label": "E", "value": "Decasílabo"}
+    ],
+    "correct_label": "D",
+    "explanation": "El verso octosílabo (ocho sílabas) es característico del romancero español y muy utilizado en la historia de la poesía en español."
+  },
+  {
+    "id": 11,
+    "question": "¿Qué figura literaria encontramos en el siguiente verso?\n'Mariposa de ensueño, te pareces a mi alma.' (Pablo Neruda)",
+    "options": [
+      {"label": "A", "value": "Hipérbole"},
+      {"label": "B", "value": "Sinécdoque"},
+      {"label": "C", "value": "Epíteto"},
+      {"label": "D", "value": "Símil"},
+      {"label": "E", "value": "Metáfora"}
+    ],
+    "correct_label": "D",
+    "explanation": "Se emplea un símil mediante el uso del nexo comparativo 'pareces', relacionando la mariposa con el alma."
+  },
+  {
+    "id": 12,
+    "question": "Estructura que consta de cuatro estrofas: dos de cuatro versos y dos de tres versos.",
+    "options": [
+      {"label": "A", "value": "Copla"},
+      {"label": "B", "value": "Rima"},
+      {"label": "C", "value": "Cuarteto"},
+      {"label": "D", "value": "Soneto"},
+      {"label": "E", "value": "Espinela"}
+    ],
+    "correct_label": "D",
+    "explanation": "La definición corresponde al soneto, compuesto por dos cuartetos y dos tercetos."
+  },
+  {
+    "id": 13,
+    "question": "¿Qué figura literaria encuentra en los versos de Francois Villón?\n‘‘De sed muero cerca de la fuente tirito de frío en medio del fuego extranjero me siento en mi patria...’’",
+    "options": [
+      {"label": "A", "value": "anáfora"},
+      {"label": "B", "value": "símil"},
+      {"label": "C", "value": "hipérbole"},
+      {"label": "D", "value": "antítesis"},
+      {"label": "E", "value": "metonimia"}
+    ],
+    "correct_label": "D",
+    "explanation": "La antítesis se presenta por la oposición de conceptos contrarios (sed/fuente, frío/fuego)."
+  },
+  {
+    "id": 14,
+    "question": "Indique la figura literaria presente en los siguientes versos:\n“Crece el fuego con el viento; / con la noche, el padecer; / con el recuerdo, la pena...”",
+    "options": [
+      {"label": "A", "value": "Símil"},
+      {"label": "B", "value": "Hipérbole"},
+      {"label": "C", "value": "Metáfora"},
+      {"label": "D", "value": "Elipsis"},
+      {"label": "E", "value": "Hipérbaton"}
+    ],
+    "correct_label": "D",
+    "explanation": "La elipsis consiste en la supresión de términos (en este caso el verbo 'crece') sin que se pierda el sentido de la frase."
+  },
+  {
+    "id": 15,
+    "question": "Entre las figuras literarias, ............. es la alteración del orden normal de las palabras dentro de la oración.",
+    "options": [
+      {"label": "A", "value": "la metáfora - Un hombre pasa con un pan al hombro"},
+      {"label": "B", "value": "el símil - Me gustaría en mis brazos tenerte"},
+      {"label": "C", "value": "el hipérbaton - Ayer por la noche, tus besos y tus lágrimas tuve yo"},
+      {"label": "D", "value": "la anáfora - Vi el populoso mar / Vi el alba y la tarde"},
+      {"label": "E", "value": "la comparación - Sus ojos negros parecen una noche oscura"}
+    ],
+    "correct_label": "C",
+    "explanation": "El hipérbaton consiste en alterar el orden lógico de la oración, como se muestra en el ejemplo de la opción C."
+  },
+  {
+    "id": 16,
+    "question": "En los versos: “Nuestras vidas son los ríos que van a dar en el mar que es el morir”. La figura literaria predominante es:",
+    "options": [
+      {"label": "A", "value": "Anáfora"},
+      {"label": "B", "value": "Epíteto"},
+      {"label": "C", "value": "Onomatopeya"},
+      {"label": "D", "value": "Sinestesia"},
+      {"label": "E", "value": "Metáfora"}
+    ],
+    "correct_label": "E",
+    "explanation": "Se utiliza una metáfora con el esquema 'A es B' (vidas = ríos; mar = morir), estableciendo una comparación implícita."
+  },
+  {
+    "id": 17,
+    "question": "Marque la alternativa en la que se utilice metáfora:",
+    "options": [
+      {"label": "A", "value": "“Te esperé bajo la lluvia mil horas...”"},
+      {"label": "B", "value": "“Yo traje la comida; él, las bebidas”"},
+      {"label": "C", "value": "“Tus labios son de seda, tus dientes, del color de la luna llena”"},
+      {"label": "D", "value": "“Volverán las oscuras golondrinas en tus balcones...”"},
+      {"label": "E", "value": "“Y te vi y te miré y me fui y regresé...”"}
+    ],
+    "correct_label": "C",
+    "explanation": "La comparación indirecta entre 'labios' y 'seda' constituye una metáfora."
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál de las siguientes figuras literarias está presente en: '...questa fuente clara y pura, que como de cristal resplandecía'?",
+    "options": [
+      {"label": "A", "value": "Metáfora"},
+      {"label": "B", "value": "Símil"},
+      {"label": "C", "value": "Hipérbole"},
+      {"label": "D", "value": "Anáfora"}
+    ],
+    "correct_label": "B",
+    "explanation": "El uso del nexo 'como' para comparar la transparencia de la fuente con el cristal identifica un símil."
+  },
+  {
+    "id": 19,
+    "question": "¿En cuál de las siguientes alternativas encontramos la figura denominada hipérbaton?",
+    "options": [
+      {"label": "A", "value": "«Compadre, quiero cambiar mi cabello por su casa»"},
+      {"label": "B", "value": "«Yo velo cuando tú duermes, yo lloro cuando tú cantas»"},
+      {"label": "C", "value": "«Acude, corre, vuela, traspasa la alta sierra»"},
+      {"label": "D", "value": "«Nadar sabe mi llama la agua fría»"},
+      {"label": "E", "value": "«No digáis que la muerte huele a nada»"}
+    ],
+    "correct_label": "D",
+    "explanation": "En la opción D el orden natural está alterado; el orden lógico sería 'Mi llama sabe nadar la agua fría'."
+  },
+  {
+    "id": 20,
+    "question": "¿Qué figura literaria se ha empleado en el fragmento de Romeo y Julieta donde se compara al pajarillo con un 'pobre prisionero amarrado a sus grillos' usando el nexo 'como'?",
+    "options": [
+      {"label": "A", "value": "Epíteto"},
+      {"label": "B", "value": "Anáfora"},
+      {"label": "C", "value": "Hipérbaton"},
+      {"label": "D", "value": "Hipérbole"},
+      {"label": "E", "value": "Símil"}
+    ],
+    "correct_label": "E",
+    "explanation": "Se establece una relación de comparación explícita entre el ave y un prisionero usando el nexo 'como'."
+  },
+  {
+    "id": 21,
+    "question": "En los versos: 'La codicia en las manos de la suerte, se arroja al mar... y la ambición se ríe de la muerte'. ¿Qué características descubrimos?",
+    "options": [
+      {"label": "A", "value": "1, 3 y 5"},
+      {"label": "B", "value": "2, 3 y 4"},
+      {"label": "C", "value": "1, 2 y 3"},
+      {"label": "D", "value": "3, 4 y 5"},
+      {"label": "E", "value": "1, 4 y 5"}
+    ],
+    "correct_label": "B",
+    "explanation": "Los versos presentan prosopopeya (dar vida a la codicia/ambición), rima consonante y son endecasílabos."
+  },
+  {
+    "id": 22,
+    "question": "Respecto a los versos de Bécquer: 'hoja que del árbol seca / arrebata el vendaval', marque el enunciado adecuado:",
+    "options": [
+      {"label": "A", "value": "El empleo del hipérbaton ha posibilitado la alteración del orden sintáctico."},
+      {"label": "B", "value": "En el primer verso, el adjetivo «seca» es un epíteto del sustantivo «hoja»."},
+      {"label": "C", "value": "La expresión «sin que nadie acierte» resalta una característica inherente."},
+      {"label": "D", "value": "Una metáfora de la forma «A es B» aparece en los dos primeros versos."},
+      {"label": "E", "value": "Entre las palabras «vendaval» y «árbol» se ha logrado configurar un símil."}
+    ],
+    "correct_label": "A",
+    "explanation": "Se utiliza hipérbaton; el orden lógico sería 'El vendaval que arrebata la hoja seca del árbol'."
+  },
+  {
+    "id": 23,
+    "question": "En el poema “La crucifixión”, 'La sustancia dorada' es una metáfora de la sangre divina de Cristo. Determine el valor de verdad de las proposiciones.",
+    "options": [
+      {"label": "A", "value": "FVFV"},
+      {"label": "B", "value": "VFVV"},
+      {"label": "C", "value": "VFVF"},
+      {"label": "D", "value": "FVVF"},
+      {"label": "E", "value": "FFVF"}
+    ],
+    "correct_label": "E",
+    "explanation": "Solo la proposición III es verdadera: 'La sustancia dorada' alude metafóricamente a la sangre de Cristo en el contexto de la crucifixión."
+  },
+  {
+    "id": 24,
+    "question": "Identifique el ejemplo de símil en el fragmento de 'Hombres de maíz' y su definición.",
+    "options": [
+      {"label": "A", "value": "«... las espuelas como estrellas» — Semejanza de dos términos que comparten una cualidad"},
+      {"label": "B", "value": "«... de luna de oro la chaqueta» — Reincidencia de una o más palabras al inicio"},
+      {"label": "C", "value": "«... los estribos de la albarda» — Variación del orden lógico"},
+      {"label": "D", "value": "«... en lo mejor de las quemas» — Exageración de los rasgos"}
+    ],
+    "correct_label": "A",
+    "explanation": "El símil establece una comparación expresa mediante conectores como 'como'. El ejemplo correcto es 'espuelas como estrellas'."
+  },
+  {
+    "id": 25,
+    "question": "En los versos de Nicomedes Santa Cruz, elija la relación correcta entre verso y figura literaria.",
+    "options": [
+      {"label": "A", "value": "\"El camello del Oriente / nubes de arena levanta\" - simil"},
+      {"label": "B", "value": "\"Penas del alma consuela / el jilguero que bien canta\" - epíteto"},
+      {"label": "C", "value": "\"Allá en el bosque frondoso / forma nido la serpiente\" - hipérbaton"},
+      {"label": "D", "value": "\"En la campiña silente / el sol brilla más hermoso\" - metáfora"}
+    ],
+    "correct_label": "C",
+    "explanation": "Se presenta un hipérbaton al alterar el orden convencional de la oración por razones expresivas o rítmicas."
+  },
+  {
+    "id": 26,
+    "question": "En 'El rey burgués' de Rubén Darío, la frase 'una lluvia blanca de plumillas cristalizadas' evidencia:",
+    "options": [
+      {"label": "A", "value": "la presencia reiterada de la preposición «de» – alude al empleo de la anáfora"},
+      {"label": "B", "value": "la luz de las arañas que reía alegre – implica una tendencia a la exageración"},
+      {"label": "C", "value": "una lluvia blanca de plumillas cristalizadas – adquiere un sentido metafórico"},
+      {"label": "D", "value": "un palacio en el cual había un gran festín – logra una dimensión hiperbólica"},
+      {"label": "E", "value": "objetos como «viejas porcelanas» – manifiesta el empleo reiterado del epíteto"}
+    ],
+    "correct_label": "C",
+    "explanation": "Es una metáfora que alude a una nevada mediante una comparación indirecta."
+  },
+  {
+    "id": 27,
+    "question": "Determine el valor de verdad (V o F) sobre las figuras literarias en los versos de Garcilaso de la Vega citados (Pregunta 26 del texto original).",
+    "options": [
+      {"label": "A", "value": "FVVF"},
+      {"label": "B", "value": "VFVF"},
+      {"label": "C", "value": "FVFV"},
+      {"label": "D", "value": "VVFF"}
+    ],
+    "correct_label": "D",
+    "explanation": "I y II son verdaderas: hay hipérbaton en el orden oracional y anáfora en la repetición de 'Por ti...' y '¡Ay...'. III y IV son falsas."
+  },
+  {
+    "id": 28,
+    "question": "A partir de los versos de “A la hacienda Facalá”, señale el valor de verdad de los enunciados sobre figuras literarias.",
+    "options": [
+      {"label": "A", "value": "FFVF"},
+      {"label": "B", "value": "VVFF"},
+      {"label": "C", "value": "FVFF"},
+      {"label": "D", "value": "VFFV"}
+    ],
+    "correct_label": "B",
+    "explanation": "I y II son verdaderas: se percibe el epíteto ('verde', 'florida') y el símil con el conector 'como'. III y IV son falsas."
+  }
+]

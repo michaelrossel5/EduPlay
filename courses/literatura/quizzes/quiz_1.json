@@ -1,10 +1,52 @@
 [
-  { "id": 1, "name": "Quiz de litratura id 1" },
-  { "id": 2, "name": "ELEMENTOS DE LA COMUNICACIÓN" },
-  { "id": 3, "name": "EL LENGUAJE Y SUS CARACTERÍSTICAS" },
-  { "id": 4, "name": "PLANOS DEL LENGUAJE: LENGUA Y HABLA" },
-  { "id": 5, "name": "FUNCIONES DEL LENGUAJE" },
-  { "id": 6, "name": "REALIDAD LINGÜÍSTICA DEL PERÚ" },
-  { "id": 7, "name": "EL MULTILINGÜISMO" }
-  
+  {
+    "id": 1,
+    "question": "El tipo de cambio puede bajar siempre que:",
+    "options": [
+      {"label": "A", "value": "disminuya el valor de nuestras exportaciones"},
+      {"label": "B", "value": "aumenta el volumen de importaciones"},
+      {"label": "C", "value": "aumenta las actividades del narcotráfico"},
+      {"label": "D", "value": "que el BCR compre dólares"},
+      {"label": "E", "value": "el dólar sea escaso"}
+    ],
+    "correct_label": "C",
+    "explanation": "El narcotráfico es una de las principales actividades generadores de ingreso de divisas del país."
+  },
+  {
+    "id": 26,
+    "question": "Relaciona correctamente.\n\na. Localización\nb. Causalidad\nc. Descripción\n\nI. Paul Vidal de la Blache\nII. Friedrich Ratzel\nIII. Alexander von Humboldt",
+    "options": [
+      {"label": "A", "value": "aI, bII, cIII"},
+      {"label": "B", "value": "aI, bIII, cII"},
+      {"label": "C", "value": "aII, bIII, cI"},
+      {"label": "D", "value": "aII, bI, cIII"},
+      {"label": "E", "value": "aIII, bI, cII"}
+    ],
+    "correct_label": "C",
+    "explanation": null
+  },
+  {
+    "id": 24,
+    "question": "Los volcanes situados en áreas continentales surgen por la colisión de dos placas tectónicas. Estas erupciones volcánicas afectan los terrenos adyacentes a través de manifestaciones como",
+    "options": [
+      {"label": "A", "value": "formación de batolitos en la base de los sistemas montañosos."},
+      {"label": "B", "value": "emisión de cenizas, lava, gases de azufre, metano y de dióxido de carbono."},
+      {"label": "C", "value": "formación de diques, sills, solfataras, conos volcánicos y lacolitos."},
+      {"label": "D", "value": "intensificación de plegamientos y fracturas de la corteza litosférica."}
+    ],
+    "correct_label": "B",
+    "explanation": "La emisión del material magmático a través de una grieta libera gases como CO2 y azufre, así como piroclásticos."
+  },
+  {
+    "id": 40,
+    "question": "Un grupo de estudiantes de Geografía investiga acerca de las características de los ríos de la vertiente del Pacífico y una de las conclusiones a las que llega es la siguiente:",
+    "options": [
+      {"label": "A", "value": "el caudal de sus ríos se incrementa en los meses de verano."},
+      {"label": "B", "value": "la mayoría de ríos presenta desembocadura en forma de delta."},
+      {"label": "C", "value": "los ríos en su curso inferior son caudalosos y navegables."},
+      {"label": "D", "value": "las unidades hidrográficas conforman cuencas endorreicas."}
+    ],
+    "correct_label": "A",
+    "explanation": "Los ríos de la vertiente del Pacífico tienen un periodo de crecida de diciembre a marzo."
+  }
 ]

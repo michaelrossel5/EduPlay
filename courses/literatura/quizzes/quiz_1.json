@@ -1,12 +1,28 @@
 [
   {
     "id": 1,
-    "question": "El tipo de cambio puede bajar siempre que:",
+    "question": "Sudou escarbó en sus recuerdos, tratando de recuperar imágenes de hace menos
+de 30 minutos. Miró ligeramente hacia arriba y murmuró:
+—¿Verdad?
+Horikita también recordaba haber hablado con Ayanokouji esa mañana cuando
+llegaron a la escuela. Aunque solo intercambiaron unas pocas palabras sobre el hecho de
+que habían quedado como compañeros de asiento, no notó nada extraño en su
+comportamiento. Parecía estar como siempre.
+—Tal vez le dolió el estómago y se quedó atrapado en el baño —sugirió Sudou.
+—No es algo imposible… —respondió Horikita, aunque la falta de tacto en su
+comentario le molestó un poco. Aun así, era una posibilidad plausible.
+A pesar de eso, había algo que no terminaba de convencerla. Justo cuando estaba
+reflexionando sobre ello, Sudou pareció recordar algo, cruzó los brazos y asintió
+profundamente.
+—Quizás esté fingiendo estar enfermo.
+Después de decirlo, esbozó una sonrisa irónica, como si hubiera imaginado algo
+inesperado.
+—¿Fingiendo? ¿Por qué piensas eso?",
     "options": [
       {"label": "A", "value": "disminuya el valor de nuestras exportaciones"},
       {"label": "C", "value": "aumenta las actividades del narcotráfico"},
       {"label": "D", "value": "que el BCR compre dólares"},
-      {"label": "E", "value": ""}
+      {"label": "E", "value": "que el BCR compre dólares que el BCR compre dólares que el BCR compre dólares que el BCR compre dólares"}
     ],
     "correct_label": "C",
     "explanation": "El narcotráfico es una de las principales actividades generadores de ingreso de divisas del país."
